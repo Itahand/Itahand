@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... Royal Peasants
+- 🔭 I’m currently working on ... Royal Peasants(decentralized chat app)
 - 🌱 I’m currently learning ... Rust
 - 👯 I’m looking to collaborate on ... Solana
 - 🤔 I’m looking for help with ... Haskell
