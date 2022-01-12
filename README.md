@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... FEC
-- 🌱 I’m currently learning ... Gun.js
-- 👯 I’m looking to collaborate on ... Cardano
+- 🔭 I’m currently working on ... Royal Peasants
+- 🌱 I’m currently learning ... Rust
+- 👯 I’m looking to collaborate on ... Solana
 - 🤔 I’m looking for help with ... Haskell
 - 💬 Ask me about ... Blockchain Technology
 - 📫 How to reach me: ... Itahand.naizir@gmail.com
