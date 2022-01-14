@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there 👋 My name is Itahand Naizir and I am Software Developer with interest in Blockchain App Development. I became aware of Blockchain, this last August, and I recognize it as a technology that provides transparency, security and a massive scope of innovation. This is why I want to grow as a developer within this ecosystem.
+
+Front-end: JavaScript | React | JQuery | HTML5 | CSS3
+Back-end: Node.js | Express | PostgreSQL | MySQL | MongoDB | RESTful API Development
+
+
 - 🔭 I’m currently working on ... Royal Peasants(decentralized chat app)
-- 🌱 I’m currently learning ... Rust
-- 👯 I’m looking to collaborate on ... Solana
-- 🤔 I’m looking for help with ... Haskell
+- 🌱 I’m currently learning ... Haskell
+- 👯 I’m looking to collaborate on ... Cardano
+- 🤔 I’m looking for help with ... Rust
 - 💬 Ask me about ... Blockchain Technology
 - 📫 How to reach me: ... Itahand.naizir@gmail.com
 
