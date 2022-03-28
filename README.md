@@ -6,8 +6,8 @@ Back-end: Node.js | Express | PostgreSQL | MySQL | MongoDB | RESTful API Develop
 
 
 - 🔭 I’m currently working on ... Charity Token Landing Page
-- 🌱 I’m currently learning ... Haskell
-- 👯 I’m looking to collaborate on ... Cardano
+- 🌱 I’m currently learning ... Solidity
+- 👯 I’m looking to collaborate on ... Etherium/Solana
 - 🤔 I’m looking for help with ... Cardano's Extended UTXO accounting model
 - 💬 Ask me about ... Blockchain Technology
 - 📫 How to reach me: ... Itahand.naizir@gmail.com
