@@ -5,10 +5,10 @@ Front-end: JavaScript | React | JQuery | HTML5 | CSS3
 Back-end: Node.js | Express | PostgreSQL | MySQL | MongoDB | RESTful API Development
 
 
-- 🔭 I’m currently working on ... Charity Token Landing Page
-- 🌱 I’m currently learning ... Solidity
-- 👯 I’m looking to collaborate on ... Etherium/Solana
-- 🤔 I’m looking for help with ... Cardano's Extended UTXO accounting model
+- 🔭 I’m currently working on ... OxyDjinn's Solana Wallet
+- 🌱 I’m currently learning ... Rust
+- 👯 I’m looking to collaborate on ... Solana
+- 🤔 I’m looking for help with ... Solana
 - 💬 Ask me about ... Blockchain Technology
 - 📫 How to reach me: ... Itahand.naizir@gmail.com
 
