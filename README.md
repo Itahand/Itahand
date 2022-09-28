@@ -3,6 +3,6 @@ I'm currently working on designing and developing a blockchain-based crowdfundin
 
 Currently working to become an AWS Certified Developer Associate.
 
-Front-end: TypeScrypt | Svelte | React | Ruby on Rails | Angular | Ethers.js
+Front-end: TypeScrypt | Svelte | React | Angular | Ethers.js
 
-Back-end: Express | PostgreSQL | SvelteKit | MongoDB | AWS | Hardhat | Truffle | AWS
+Back-end: Node.js | PostgreSQL | Java | MongoDB | AWS | Hardhat | AWS | Ruby on Rails 
