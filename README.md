@@ -3,8 +3,8 @@ I'm currently working on designing and developing a blockchain-based crowdfundin
 
 Currently working to become an AWS Certified Developer Associate.
 
-Front-end: TypeScrypt | Svelte | React | Angular | Ethers.js | FCL
+Front-end: TypeScrypt | Svelte | React | Ethers.js | FCL
 
-Back-end: Node.js | PostgreSQL | Java | MongoDB | AWS | Hardhat |
+Back-end: Node.js | PostgreSQL | Java | MongoDB | AWS | Hardhat | Prisma | Docker-Compose
 
 Blockchain: Cadence(Flow) | Solidity(EVM)
