@@ -1,10 +1,10 @@
 ### Hi there 👋 My name is Noah Naizir and I am a Fullstack, Blockchain Developer with interest in DevOps. 
-I'm currently working on designing and developing a blockchain-based crowdfunding service for carbon negative projects that tracks the amount of CO2 with tokens for the user to exchange in the voluntary carbon credit.
+I'm currently learning C# and working on a management project using .Net
 
 Currently working to become an AWS Certified Developer Associate.
 
 Front-end: TypeScrypt | Svelte | React | Ethers.js | FCL
 
-Back-end: Node.js | PostgreSQL | Java | MongoDB | AWS | Hardhat | Prisma | Docker-Compose
+Back-end: Node.js | PostgreSQL | Java | MongoDB | AWS | Hardhat | Prisma | Docker-Compose | C#
 
 Blockchain: Cadence(Flow) | Solidity(EVM)
